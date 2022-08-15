@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MDR333
 - 👀 I’m interested in running, hiking, learning
-- 🌱 I’m currently learning C# and MVC development
-- 💞️ I’m looking to collaborate on data science projects
+- 🌱 Currently learning mobile development
+- 💞️ I’m looking to collaborate anything fun
 - 📫 How to reach me: mackramirez2000@gmail.com
 
 <!---
