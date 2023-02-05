@@ -1,1 +1,2 @@
-- experimenting
+- experimenting with web development/ML/AI
+- mackramirez.com
